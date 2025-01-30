@@ -2761,7 +2761,7 @@ __metadata:
     "@testing-library/user-event": 12.8.3
     "@xstate/react": 3.2.2
     acorn: 7.0.0
-    axios: 1.6.4
+    axios: 1.7.4
     babel-jest: 29.4.3
     babel-loader: 8.2.3
     classnames: 2.3.1
@@ -2807,7 +2807,7 @@ __metadata:
     "@sonatype/nexus-ui-plugin": "workspace:*"
     "@sonatype/react-shared-components": 13.1.6
     "@xstate/inspect": 0.4.1
-    axios: 1.6.4
+    axios: 1.7.4
     babel-loader: 8.2.3
     babel-polyfill: 6.26.0
     copy-modules-webpack-plugin: 2.2.1
@@ -4552,14 +4552,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"axios@npm:1.6.4":
-  version: 1.6.4
-  resolution: "axios@npm:1.6.4"
+"axios@npm:1.7.4":
+  version: 1.7.4
+  resolution: "axios@npm:1.7.4"
   dependencies:
-    follow-redirects: ^1.15.4
+    follow-redirects: ^1.15.6
     form-data: ^4.0.0
     proxy-from-env: ^1.1.0
-  checksum: 48d8af8488ac7402fae312437c0189b3b609a472fca2f7fc796129c804d98520589b6317096eba8509711d49f855a3f620b6a24ff23acd73ac26433d0383b8f9
+  checksum: 0c17039a9acfe6a566fca8431ba5c1b455c83d30ea6157fec68a6722878fcd30f3bd32d172f6bee0c51fe75ca98e6414ddcd968a87b5606b573731629440bfaf
   languageName: node
   linkType: hard
 
@@ -6856,16 +6856,6 @@ __metadata:
   bin:
     flat: cli.js
   checksum: 12a1536ac746db74881316a181499a78ef953632ddd28050b7a3a43c62ef5462e3357c8c29d76072bb635f147f7a9a1f0c02efef6b4be28f8db62ceb3d5c7f5d
-  languageName: node
-  linkType: hard
-
-"follow-redirects@npm:^1.15.4":
-  version: 1.15.6
-  resolution: "follow-redirects@npm:1.15.6"
-  peerDependenciesMeta:
-    debug:
-      optional: true
-  checksum: a62c378dfc8c00f60b9c80cab158ba54e99ba0239a5dd7c81245e5a5b39d10f0c35e249c3379eae719ff0285fff88c365dd446fab19dee771f1d76252df1bbf5
   languageName: node
   linkType: hard
 
@@ -11560,7 +11550,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "root-workspace-0b6124@workspace:."
   dependencies:
-    axios: 1.6.4
+    axios: 1.7.4
     core-js-pure: ^3.28.0
   languageName: unknown
   linkType: soft
